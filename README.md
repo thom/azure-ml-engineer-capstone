@@ -4,7 +4,7 @@
 - [Project setup and installation](#project-setup-and-installation)
 - [Dataset](#dataset)
   - [Overview](#overview)
-  - [Attribute Information](#attribute-information)
+  - [Attribute information](#attribute-information)
   - [Task](#task)
   - [Access](#access)
 - [Automated ML](#automated-ml)
@@ -69,7 +69,7 @@ The project uses the [heart failure clinical records dataset](https://archive.ic
 
 A detailed description of the dataset can be found in the dataset section of the ["Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone"](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5) paper.
 
-### Attribute Information
+### Attribute information
 
 Thirteen clinical features:
 
